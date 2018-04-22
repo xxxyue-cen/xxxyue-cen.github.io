@@ -43,6 +43,3 @@ return 0
 图片链接
 英文状态下感叹号，圆括号（图片名称），小括号（图片链接）
 ![这是条狗](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=3951473447,2602083693&fm=27&gp=0.jpg)
-
-
-芮媛  我爱你
