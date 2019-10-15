@@ -1,0 +1,22 @@
+总用量 88
+-rwxrwxr-x 1 yisheng yisheng 11040 9月  30 09:54 a.out
+-rw-rw-r-- 1 yisheng yisheng   733 9月  29 17:48 f1
+-rw-rw-r-- 1 yisheng yisheng   786 9月  29 17:49 f2
+-rw-rw-r-- 1 yisheng yisheng   901 9月  30 09:20 f3
+-rw-rw-r-- 1 yisheng yisheng  1600 9月  29 11:04 file
+-rw-rw-r-- 1 yisheng yisheng   957 9月  30 09:54 file0
+-rw-rw-r-- 1 yisheng yisheng  1013 9月  30 09:54 file1
+-rw-rw-r-- 1 yisheng yisheng  1069 9月  30 09:54 file2
+-rw-rw-r-- 1 yisheng yisheng  1125 9月  30 09:54 file3
+-rw-rw-r-- 1 yisheng yisheng  1181 9月  30 09:54 file4
+-rw-rw-r-- 1 yisheng yisheng     0 9月  30 09:54 file5
+-rw-rw-r-- 1 yisheng yisheng  1314 9月  30 09:54 home_work.c
+-rw-rw-r-- 1 yisheng yisheng  1746 9月  29 17:47 metux.c
+-rw-rw-r-- 1 yisheng yisheng  1088 9月  29 15:26 pthread_deatch.c
+-rw-rw-r-- 1 yisheng yisheng  1301 9月  29 15:51 pthread_exit.c
+-rw-rw-r-- 1 yisheng yisheng   915 9月  29 14:35 pthread_self.c
+-rw-rw-r-- 1 yisheng yisheng   790 9月  29 14:28 pthread_test.c
+-rw-rw-r-- 1 yisheng yisheng   400 9月  29 17:05 temp
+-rw-rw-r-- 1 yisheng yisheng   611 9月  29 10:36 test1.c
+-rw-rw-r-- 1 yisheng yisheng  1598 9月  29 11:16 test2.c
+-rw-rw-r-- 1 yisheng yisheng   663 9月  29 16:28 test_pthread.c
