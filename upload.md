@@ -12,6 +12,7 @@ ssh-keygen -t rsa -C "你的邮箱名"
 
 # github 上传文件
 
+(aname相当于变量名)
 1.创建git文件夹
 ```shell
 $: git init
@@ -19,6 +20,7 @@ $: git init
 2.连接github
 ```shell
 $: git remote add aname git@github.com：XXX/∗∗.git
+"eg git remate add aname git@github.com:xxxyue-cen/xxxyue-cen.github.io.git
 ```
 xxx:表示github账号
 ** ：表示仓库名
